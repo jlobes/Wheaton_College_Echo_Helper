@@ -1,0 +1,18 @@
+Echo Models:
+  Echo Dot Second Generation - $50
+  Echo Second Generation - $100
+
+  It seems like the only difference is the dot doesn't come with a speaker. Which we wouldn't need for this project anyway.
+  
+Echo Locations:
+  I'm thinking every class building so that would be:
+    1. Meneeley
+    2. Watson
+    3. Napton
+    4. Mars
+  So four echo dots at least if we just want to do class buildings.
+  
+  
+Skill Ideas:
+  - Building identifier. (What building am I in?)
+  - Office hours and location.
